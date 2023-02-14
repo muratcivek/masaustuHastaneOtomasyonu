@@ -1,0 +1,333 @@
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\murat\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRandevuRapor.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmAmeliyatRapor.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.SuggestedBindingRedirects.cache
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmAmeliyatRapor.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRandevuRapor.resources
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\memin\Downloads\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmBackUp.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmRestore.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ImportExport.frmHastaImportExport.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\System.IO.Packaging.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.pdb
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ImportExport.frmHastaImportExport.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmBackUp.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmRestore.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\System.IO.Packaging.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.pdb
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminEkran.resources
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\celik\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRaporlama.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminEkran.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRaporlama.resources
+C:\Users\ömer\OneDrive\Masaüstü\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\System.IO.Packaging.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.pdb
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminEkran.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ImportExport.frmHastaImportExport.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRaporlama.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmBackUp.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmRestore.resources
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\murat\Desktop\VTYS_Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\System.IO.Packaging.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.pdb
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminEkran.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ImportExport.frmHastaImportExport.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRaporlama.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmBackUp.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmRestore.resources
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\Users\celik\Desktop\Güncel Proje\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\System.IO.Packaging.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.dll
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.pdb
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.xml
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminEkran.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ImportExport.frmHastaImportExport.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRaporlama.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmBackUp.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmRestore.resources
+C:\Users\celik\Desktop\VTYS_Proje\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe.config
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.exe
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\HastaneOtomasyonu.pdb
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\BouncyCastle.Crypto.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\System.IO.Packaging.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.dll
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.pdb
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ClosedXML.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\DocumentFormat.OpenXml.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.pdb
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.pdb
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelDataReader.DataSet.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\ExcelNumberFormat.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\itextsharp.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\bin\Debug\Z.Dapper.Plus.xml
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.AssemblyReference.cache
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmAdminGiris.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmBransEkle.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorEkle.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorislemler.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmDoktorGiris.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmGirisPaneli.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmHastaEkle.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.ImportExport.frmHastaImportExport.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Properties.Resources.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmRandevuOlustur.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkran.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterEkle.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.frmSekreterGiris.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Raporlar.frmRaporlama.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmBackUp.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.Yedekleme.frmRestore.resources
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.GenerateResource.cache
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CoreCompileInputs.cache
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.csproj.CopyComplete
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.exe
+C:\projelerim\HastaneOtomasyonu\HastaneOtomasyonu\obj\Debug\HastaneOtomasyonu.pdb
