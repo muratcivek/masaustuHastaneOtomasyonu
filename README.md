@@ -1,6 +1,7 @@
 SQL tabanlı C# ile  Visual Studio üzerinde geliştirilmiş hastanenin işleyişine yönelik masaüstü program  <br>
 
-Aşağıda projenin kullanıcı arayüzleri yer almaktadır.  
+Aşağıda projenin kullanıcı arayüzleri yer almaktadır.  <br>
+
 ![Proje Görseli](https://github.com/muratcivek/hastaneOtomasyonu/blob/main/kullaniciArayuzleri/1.png)  
 ![Proje Görseli](https://github.com/muratcivek/hastaneOtomasyonu/blob/main/kullaniciArayuzleri/2.png)  
 ![Proje Görseli](https://github.com/muratcivek/hastaneOtomasyonu/blob/main/kullaniciArayuzleri/3.png)  
